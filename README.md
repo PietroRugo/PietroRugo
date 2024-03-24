@@ -1,8 +1,6 @@
 ### Olá ! Eu me chamo Pietro Rugo
 
-- 🐍 Pretendo trabalhar com Python ...
 - 🐍 Estudando Python  ...
-- ✨ Metas: aprender além de Python e Inglês: CSS, HTML e SQL
 <div align="center">
   <a href="https://github.com/pietrorugo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pietrorugo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
