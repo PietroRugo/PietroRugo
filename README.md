@@ -1,4 +1,4 @@
-### Olá ! Eu me chamo Pietro Rugo
+### Olá ! Eu me chamo Pedro Hugo
 
 - 🐍 Estudando Python  ...
 <div align="center">
